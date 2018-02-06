@@ -1,0 +1,1 @@
+# EuroTruckSimulator2_TruckTextureTemplate
