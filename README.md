@@ -1,1 +1,1 @@
-# EuroTruckSimulator2_TruckTextureTemplate
+# Euro Truck Simulator 2 - Truck Texture Template
