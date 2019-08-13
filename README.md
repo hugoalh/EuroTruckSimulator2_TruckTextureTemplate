@@ -1,1 +1,1 @@
-# Euro Truck Simulator 2 - Truck Texture Template
+# Euro Truck Simulator 2 - Template - Truck Structure
